@@ -16,7 +16,6 @@ class _Room1State extends State<Room1> {
   double heating = 12;
   @override
   Widget build(BuildContext context) {
-    center:
     const Text(
       'MY ROOM',
       style: TextStyle(
